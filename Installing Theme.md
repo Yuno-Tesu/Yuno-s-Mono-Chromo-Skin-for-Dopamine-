@@ -9,4 +9,4 @@ To install the theme:
 
 May have to restart Dopamine 3.
 
-![Install-Image](images/dopamine-install)
+![Install-Image](images/dopamine-install.png)
