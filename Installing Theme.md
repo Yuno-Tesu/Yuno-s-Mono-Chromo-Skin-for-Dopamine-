@@ -8,3 +8,5 @@ To install the theme:
 - Copy the theme file into the directory (folder) that opened up
 
 May have to restart Dopamine 3.
+
+![Install-Image](images/dopamine-install)
